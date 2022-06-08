@@ -193,7 +193,7 @@ td{
         border-radius: 100px;
     }
 }
-@media screen and (min-width: 768px) and (max-width: 940px){
+@media screen and (min-width: 768px) and (max-width: 995px){
     #hero_name{
         font-size: 5vw;
     }
