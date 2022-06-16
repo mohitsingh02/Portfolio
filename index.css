@@ -141,6 +141,10 @@ td{
     filter: drop-shadow(0px 3px 3px #FFFFFF);
     
 }
+#About{
+    margin-left: 3rem;
+}
+
 .form-control{
     background: transparent;
     border: 2px solid #585D65;
@@ -191,6 +195,9 @@ td{
         height: 40vh;
         width: 80vw;
         border-radius: 100px;
+    }
+    #About{
+        margin-left: 2vw;
     }
 }
 @media screen and (min-width: 768px) and (max-width: 995px){
